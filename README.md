@@ -8,6 +8,8 @@
 
 源码位于：https://github.com/yinsigan/ruby_websocket_tutorial
 
+电子版: [PDF](https://www.gitbook.com/download/pdf/book/yinsigan/websocket) [Mobi](https://www.gitbook.com/download/mobi/book/yinsigan/websocket) [ePbu](https://www.gitbook.com/download/epub/book/yinsigan/websocket)
+
 ### 联系我:
 
 email: hfpp2012@gmail.com
