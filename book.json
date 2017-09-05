@@ -1,0 +1,12 @@
+{
+    "plugins": ["github-buttons"],
+    "pluginsConfig": {
+      "github-buttons": {
+          "repo": "yinsigan/ruby_websocket_tutorial",
+          "types": [
+              "star",
+              "watch"
+          ]
+      }
+    }
+}
